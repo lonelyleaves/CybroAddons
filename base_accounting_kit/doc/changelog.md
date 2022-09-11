@@ -91,4 +91,17 @@
 #### UPDT
 - Account Parent Group added
 
+#### 13.08.2021
+#### Version 14.0.3.13.12
+#### UPDT
+- Dashboard issue fixed, 'state' field is ambigous
 
+#### 18.08.2021
+#### Version 14.0.3.13.13
+#### UPDT
+- Reconciliation issue fixed
+
+#### 14.01.2022
+#### Version 14.0.3.13.14
+#### FIX
+- Dashboard cash and bank balance issue fix
